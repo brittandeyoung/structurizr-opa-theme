@@ -4,7 +4,7 @@
   "elements": [
     {
       "tag": "Open Policy Agent",
-      "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-opa-theme/refs/heads/main/opa.png"
+      "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-opa-theme/refs/heads/main/icons/opa.png"
     },
     {
       "tag": "Open Policy Agent - Data",
