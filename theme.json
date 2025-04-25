@@ -1,0 +1,18 @@
+{
+  "name": "Open Policy Agent",
+  "description": "This theme includes element styles with icons for Open Policy Agent.",
+  "elements": [
+    {
+      "tag": "Open Policy Agent",
+      "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-opa-theme/refs/heads/main/opa.png"
+    },
+    {
+      "tag": "Open Policy Agent - Data",
+      "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-opa-theme/refs/heads/main/icons/data.png"
+    },
+    {
+      "tag": "Open Policy Agent - Policy",
+      "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-opa-theme/refs/heads/main/icons/policy.png"
+    }
+  ]
+}
