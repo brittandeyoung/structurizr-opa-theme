@@ -13,6 +13,10 @@
     {
       "tag": "Open Policy Agent - Policy",
       "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-opa-theme/refs/heads/main/icons/policy.png"
+    },
+    {
+      "tag": "Open Policy Agent - Conftest",
+      "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-opa-theme/refs/heads/main/icons/conftest.png"
     }
   ]
 }
